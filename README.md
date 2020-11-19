@@ -1,1 +1,2 @@
-# MangoPro
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
